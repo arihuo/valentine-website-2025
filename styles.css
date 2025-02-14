@@ -88,8 +88,8 @@ body {
 
 .secret-answer {
     position: fixed;
-    bottom: 60px;
-    right: 60px;
+    bottom: 40px;
+    right: 40px;
     margin-top: 0;
     opacity: 0.5;
     transition: opacity 0.3s;
@@ -100,8 +100,8 @@ body {
 }
 
 .secret-answer .cute-btn {
-    font-size: 3rem;
-    padding: 20px 40px;
+    font-size: 1.5rem;
+    padding: 10px 20px;
 }
 
 .secret-answer:hover {
